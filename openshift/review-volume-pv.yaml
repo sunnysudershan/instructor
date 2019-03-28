@@ -9,4 +9,4 @@ spec:
   - ReadWriteMany
   nfs:
     path: /var/export/review-dbvol
-    server: master.lab.example.com
+    server: 10.3.5.47
